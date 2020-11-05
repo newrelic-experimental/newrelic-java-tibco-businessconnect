@@ -1,0 +1,4 @@
+Add these jars from your installation
+bcebmxl.jar
+gateway.jar
+configstore-core.jar
